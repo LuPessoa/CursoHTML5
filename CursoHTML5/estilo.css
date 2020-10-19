@@ -1,0 +1,48 @@
+body{
+	font-family:helvetica, san-serif;
+}
+a:link, a:visited{
+	color: pink;
+	text-decoration:nome;
+}
+a:hover{
+	text-decoration:underline;
+}
+#wrap{
+	width:960px
+	margin:auto;
+	background:red;
+	podding:10px 20px;
+	overflow:hidden;
+	
+}
+header h1{
+	pooding:10px;
+}
+header nav ul{
+	list-style:nome;
+	podding-left:20px
+}
+header nav ul li{
+	display:inline-block;
+	margin-right:10px
+}
+header nav ul li a{
+	font-size:18px;
+
+}
+#content{
+	float:left;
+	width:660px
+}
+#siderbar{
+	float:right;
+	width:360px;
+}
+#sidebar ul{
+	list-style:nome;
+}
+footer{
+	clear: both;
+}
+
